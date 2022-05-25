@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\adow2\documents\visual studio 2013\projects\plinko\plinko\source.cpp(27): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+  Plinko.vcxproj -> C:\Users\adow2\Documents\Visual Studio 2013\Projects\Plinko\Debug\Plinko.exe
