@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\adow2\documents\visual studio 2013\projects\plinko w functions\plinko\source.cpp(162): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+c:\users\adow2\documents\visual studio 2013\projects\plinko w functions\plinko\source.cpp(201): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+c:\users\adow2\documents\visual studio 2013\projects\plinko w functions\plinko\source.cpp(209): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\adow2\documents\visual studio 2013\projects\plinko w functions\plinko\source.cpp(214): warning C4101: 'rand_num' : unreferenced local variable
+  Plinko.vcxproj -> C:\Users\adow2\Documents\Visual Studio 2013\Projects\Plinko w functions\Debug\Plinko.exe
